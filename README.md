@@ -9,6 +9,7 @@ Certains outils sont installés pour pouvoir utiliser cette image dans des pipel
 Voici la liste de ce qui a été ajouté à l'image alpine:
 * ansible
 * ansible-lint
+* git
 
 
 ## Utilisation Dockerfile
